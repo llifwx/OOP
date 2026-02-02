@@ -27,16 +27,17 @@ public class Time {
     }
 
     public String toStandard() {
+        int h = hour;
 
         boolean ok = false;
         StringBuilder sb = new StringBuilder();
 
-        if(hour > 12) {
+        if(h >= 12) {
             ok = true;
-            hour -= 12;
+            h -= 12;
         }
-        if(hour < 10) sb.append("0" + hour + ":");
-        else sb.append(hour + ":");
+        if(h < 10) sb.append("0" + h + ":");
+        else sb.append(h + ":");
 
         if(minute < 10) sb.append("0" + minute + ":");
         else sb.append(minute + ":");
@@ -50,24 +51,16 @@ public class Time {
         return sb.toString();
     }
 
-    public Time add(Time t1, Time t2) {
-        int newHour = t1.hour + t2.hour;
-        int newMinute = t1.minute + t2.minute;
-        int newSecond = t1.second + t2.second;
+    public Time add(Time other) {
+        int newSecond = this.second + other.second;
+        int carryMin = newSecond / 60;
+        newSecond %= 60;
 
-        if (newSecond >= 60) {
-            newSecond -= 60;
-            newMinute++;
-        }
+        int newMinute = this.minute + other.minute + carryMin;
+        int carryHour = newMinute / 60;
+        newMinute %= 60;
 
-        if (newMinute >= 60) {
-            newMinute -= 60;
-            newHour++;
-        }
-
-        if (newHour >= 24) {
-            newHour -= 24;
-        }
+        int newHour = (this.hour + other.hour + carryHour) % 24;
 
         return new Time(newHour, newMinute, newSecond);
     }
@@ -77,7 +70,7 @@ public class Time {
         System.out.println(t.toUniversal());
         System.out.println(t.toStandard());
         Time t2 = new Time(7, 38, 1);
-        t.add(t, t2);
-        System.out.println(t.toUniversal());
+        Time sum = t.add(t2);
+        System.out.println(sum.toUniversal());
     }
 }
