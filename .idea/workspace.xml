@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b28a624-22e4-4d85-90c5-3926c8e8e47d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labs/lab1/src/task1/Analyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab1/src/task2/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab1/src/task4/GradeBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/Practice2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Practices/Practice2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/Practice2/src/task1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +32,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DragonLaunch.executor": "Run",
+    "Application.GradeBookTest.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.task1.executor": "Run",
     "Application.task2.executor": "Run",
@@ -44,9 +47,18 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/amina/IdeaProjects/OOP",
-    "onboarding.tips.debug.path": "C:/Users/amina/IdeaProjects/OOP/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/amina/IdeaProjects/OOP/Labs/lab1/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amina\IdeaProjects\OOP\Labs\lab1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
