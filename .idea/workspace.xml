@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b28a624-22e4-4d85-90c5-3926c8e8e47d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labs/lab1/src/task1/Analyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/lab1/src/task2/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/lab1/src/task4/GradeBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Practice3/Practice3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +14,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -35,6 +35,7 @@
     "Application.DragonLaunch.executor": "Run",
     "Application.GradeBookTest.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.main.executor": "Run",
     "Application.task1.executor": "Run",
     "Application.task2.executor": "Run",
     "Application.task3.executor": "Run",
@@ -44,11 +45,12 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/amina/IdeaProjects/OOP",
-    "onboarding.tips.debug.path": "C:/Users/amina/IdeaProjects/OOP/Labs/lab1/src/Main.java",
-    "project.structure.last.edited": "Project",
+    "onboarding.tips.debug.path": "C:/Users/amina/IdeaProjects/OOP/Practices/Practice3/src/Main.java",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default"
@@ -75,5 +77,16 @@
       <updated>1768930840285</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practices/Practice3/untitled/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
