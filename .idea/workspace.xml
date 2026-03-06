@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b28a624-22e4-4d85-90c5-3926c8e8e47d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practices/Practice3/Practice3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab2/lab2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -35,6 +35,7 @@
     "Application.DragonLaunch.executor": "Run",
     "Application.GradeBookTest.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.main.executor": "Run",
     "Application.task1.executor": "Run",
     "Application.task2.executor": "Run",
@@ -49,7 +50,7 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/amina/IdeaProjects/OOP",
-    "onboarding.tips.debug.path": "C:/Users/amina/IdeaProjects/OOP/Practices/Practice3/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/amina/IdeaProjects/OOP/Labs/lab2/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
