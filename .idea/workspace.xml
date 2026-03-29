@@ -2,7 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b28a624-22e4-4d85-90c5-3926c8e8e47d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labs/lab2/lab2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/Prctice4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/Doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task2/interfaces/CanHavePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task2/interfaces/CanHaveRetake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task2/interfaces/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task2/people/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task2/people/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task2/people/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task2/places/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task3/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task3/devices/iPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task3/games/LogicGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task3/games/MemoryGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task3/interfaces/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task3/interfaces/IGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task3/interfaces/Pluggable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task3/interfaces/Sellable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task3/interfaces/SellableAndPluggable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task4/NameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task4/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -15,6 +36,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -32,6 +54,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.App.executor": "Run",
     "Application.DragonLaunch.executor": "Run",
     "Application.GradeBookTest.executor": "Run",
     "Application.Main.executor": "Run",
