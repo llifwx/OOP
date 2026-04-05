@@ -1,5 +1,7 @@
 package Pet_management_system;
 
+import java.util.Collections;
+
 public class Test {
     public static void main(String[] args) {
         Person john = new Employee("John", 30, "Engineer");
@@ -47,5 +49,6 @@ public class Test {
 
         System.out.println("People with pets: " + registry.findPeopleWithPets());
         System.out.println("People without pets: " + registry.findPeopleWithoutPets());
+        Collections.sort(registry.findPeopleWithPets());
     }
 }

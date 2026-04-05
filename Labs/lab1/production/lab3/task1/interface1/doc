@@ -1,0 +1,4 @@
+Different classes can all be “payable”
+
+A FullTimeEmployee, Freelancer, and Invoice are not really the same kind of object.
+But all of them can produce a payment amount.

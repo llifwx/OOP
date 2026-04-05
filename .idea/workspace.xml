@@ -1,29 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b28a624-22e4-4d85-90c5-3926c8e8e47d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/Prctice4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/Doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task2/interfaces/CanHavePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task2/interfaces/CanHaveRetake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task2/interfaces/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task2/people/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task2/people/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task2/people/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task2/places/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task3/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task3/devices/iPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task3/games/LogicGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task3/games/MemoryGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task3/interfaces/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task3/interfaces/IGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task3/interfaces/Pluggable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task3/interfaces/Sellable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task3/interfaces/SellableAndPluggable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task4/NameComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/Prctice4/src/task4/Student.java" afterDir="false" />
+    <list default="true" id="2b28a624-22e4-4d85-90c5-3926c8e8e47d" name="Changes" comment="practice4">
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/Pet_management_system/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/Pet_management_system/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/Pet_management_system/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/Pet_management_system/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/Pet_management_system/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/Pet_management_system/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/Pet_management_system/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/Pet_management_system/PersonRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/Pet_management_system/PhDStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/Pet_management_system/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/Pet_management_system/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/abstract1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/abstract1/Doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/abstract1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/abstract1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/abstract1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/abstract2/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/abstract2/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/abstract2/Doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/abstract2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/abstract2/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/interface1/Freelancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/interface1/FullTimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/interface1/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/interface1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/interface1/Payable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/interface1/doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/interface2/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/interface2/Doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/interface2/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/interface2/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/interface2/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/interface2/Swimmable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task1/interface2/Walkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task2/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task2/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task2/Moveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task3/MyArrayCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task3/MyCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task4/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task4/HireDateComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task4/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task4/NameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task4/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task5/Chocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task5/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task5/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/lab3/src/task5/Time.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -48,6 +80,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="38X0vcUAM46HgllyEwhLPfEpJgC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -72,7 +107,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/amina/IdeaProjects/OOP",
+    "last_opened_file_path": "C:/Users/amina/IdeaProjects/OOP/Labs/lab3/src",
     "onboarding.tips.debug.path": "C:/Users/amina/IdeaProjects/OOP/Labs/lab2/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -100,7 +135,28 @@
       <option name="presentableId" value="Default" />
       <updated>1768930840285</updated>
     </task>
+    <task id="LOCAL-00001" summary="practice4">
+      <option name="closed" value="true" />
+      <created>1774788302217</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774788302218</updated>
+    </task>
+    <task id="LOCAL-00002" summary="practice4">
+      <option name="closed" value="true" />
+      <created>1774788330353</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774788330353</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="practice4" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

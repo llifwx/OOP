@@ -1,0 +1,9 @@
+Bank account with shared core behavior
+
+Suppose all bank accounts have:
+
+account number
+balance
+deposit method
+
+But different accounts handle withdrawal differently.

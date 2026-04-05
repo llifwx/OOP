@@ -1,0 +1,5 @@
+Shapes with shared state and common logic
+
+All shapes may have a color.
+All shapes may have a method display().
+But each shape calculates area differently.
